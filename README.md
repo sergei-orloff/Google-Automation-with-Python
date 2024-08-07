@@ -24,5 +24,3 @@ Google IT Automation with Python Professional Certificate
 6. **Course 6: Automating Real-World Tasks with Python**
    - **Focus:** Applying learned skills to real-world problems.
    - **Key Topics:** Interacting with web services, manipulating images, and automating complex tasks.
-
-For more detailed reviews, you can check out the articles on [ReliableSoft](https://www.reliablesoft.net/google-it-automation-with-python-professional-certificate-review/), [MLTUT](https://www.mltut.com/google-it-automation-with-python-professional-certificate-review/), and [E-Student](https://e-student.org/review-of-courseras-google-it-automation-with-python-professional-certificate/).
