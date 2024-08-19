@@ -26,7 +26,7 @@ def new_directory(directory, filename):
     with open(filename, 'w') as file:
         pass  # No need to write anything to create the file
 
-    os.chdir('..')  # Go back to the parent directory if needed
+    os.chdir('../..')  # Go back to the parent directory if needed
     # Return the list of files in the new directory
     return os.listdir(directory)
 
