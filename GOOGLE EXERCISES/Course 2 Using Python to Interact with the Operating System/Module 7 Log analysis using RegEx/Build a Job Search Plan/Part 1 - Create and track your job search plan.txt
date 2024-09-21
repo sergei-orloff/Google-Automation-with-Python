@@ -1,0 +1,129 @@
+Build a Job Search Plan
+In this activity, you will create a job search plan to help you track your progress and expectations during your job search.
+
+Part 1 - Create and track your job search plan <https://docs.google.com/spreadsheets/d/1bgymriY3WQzhHLKS-ahVhR0OMA7UmpNO0h80FWNjrp0/template/preview?usp=sharing>
+Step 1: Access the template
+
+Click the link to create a copy of the template. If you don’t have a Google account, download the template directly from the attachment below.
+
+Job Search Plan Template
+ - Google Sheets format
+
+OR
+
+Microsoft Excel format:
+Job Search Plan Template [attached as an MS Excel file]  <https://docs.google.com/spreadsheets/d/1hSFweKxLb5BM3F-FjSQxtmj2kCqedByH/template/preview?rtpof=true&sd=true>
+
+Step 2: Choose an industry or specialty
+
+Since high tech jobs exist in nearly every industry in this digital world, the first step in your job search is choosing an industry that you may enjoy. Reflect on your passions, the communities you’d like to work with, or what work gets you excited, and investigate opportunities in those areas. Here are some more examples of industries you can explore:
+
+Technology
+
+Business
+
+Medical
+
+Construction
+
+Government
+
+Education
+
+Non-Profit
+
+Finance
+
+Marketing
+
+Check that you are in the Job Tracker tab. Once you have determined your preferred industry, record it in the Industry column.
+
+Step 3: Explore and determine your desired job
+
+Now that you know what industry you’re searching in, it’s time to get specific. For example, if you chose the education industry, you might search for jobs related to automation, cloud computing, or Python coding for a school district or university IT department. You can find similar roles in government, finance, and commercial businesses.
+
+If you’re unsure what kinds of opportunities are available, search for a company in the industry of your choice and review the career opportunities for Python automation roles. Once you’ve found a job you are interested in, record the company, job title in the appropriate columns. Paste the link to the job description under Job Link.
+
+Step 4: Track your networking
+
+Networking can be a great tool that can lead to potential job opportunities. If you apply for a job through a referral, record the name and contact information of the person who referred you under Referral Name and Referral Contact Information.
+
+Step 5: Customize your resume and apply
+
+Tailor your resume and cover letter to reflect the language used in the job description and apply as soon as possible. Once you've applied to the job, identify the resume you used under Resume Used and the date on which you applied under Date Applied.
+
+Step 6: Prepare for and schedule your first interview
+
+If you schedule an interview with a recruiter, record the interview date, your interviewer’s name, and your interviewer’s contact information in the next three columns.
+
+Step 7: Thank your interviewer
+
+Once you’ve successfully completed your first interview, make sure to send a thank you email to your interviewer within 24 hours. Remind them of who you are, what job you applied for, and thank them for their time. Your interviewer will likely appreciate your courtesy, which will make you more memorable.
+
+Don't forget to record the date you send the thank you email under Follow-up Email Date.
+
+Step 8: Prepare for further interviews
+
+As you move forward in the application process, you will likely have at least one or two more interviews. Log any further information in remaining columns.
+
+Step 9: Keep trying
+
+Successfully applying to and landing a job is a competitive and difficult process. No matter the outcome of a certain application, persistence pays off!
+
+Part 2 - Cultivate and maintain your networking relationships
+Networking is a critical tool in your job search, as it can help you learn about new job opportunities, gain information on your target industry, and help open doors for your career. Cultivate your network of former and current coworkers, and use online networking platforms like LinkedIn to connect to others in your target industry. Letting your network know about your interests could lead to informational interviews with those in your target field, or referrals for job openings. Be sure to keep track of each connection you make, and each new opportunity that arises.
+
+Step 1: Open Tab 2 of the template
+
+Now, go to the Network Tracker tab.
+
+Step 2: Fill in personal contact information
+
+Once you’ve connected with someone, you should track your relationship with them. Record the date of your first meeting, the person’s name, and their contact information in the first three columns.
+
+Step 3: Record professional takeaways
+
+Make note of anything new you learned about the industry or job from your conversation under Key Questions. Pay close attention to any issues that your contact deems important.
+
+Step 4: Recollect on common ground
+
+It is also helpful to remember interesting details or stories from your conversation, both personal and professional. Write down any professional tips, common interests, or fun facts from your conversation under Professional Takeaways and Personal Talking Points. You can use these details to build on your connection with your contact the next time you connect with them.
+
+Step 5: Brainstorm further questions
+
+You will most likely have more questions after your first networking session. Record these under Further Questions. You can use these questions to reconnect with your contact or ask future contacts.
+
+Step 6: Schedule your next meeting
+
+Estimate the date you next want to reach out to your contact. After your first meeting, the six-month mark is a good choice, although it could be sooner depending on your level of connection or if you agreed on next steps when speaking with them. Record the date you plan to reach out again under Next Outreach.
+
+Pro Tip: Save the template
+Finally, be sure to save a blank copy of the job search plan template you used to complete this activity. You can use it for further practice or in your own personal or professional projects.
+
+What to Include in Your Response
+Be sure to address the following elements in your completed job search plan:
+
+Job Tracker Tab 1 should include:
+
+Industry
+
+Company
+
+Job Title
+
+Job Link
+
+
+Network Tracker Tab 2 should include:
+
+Contact information
+
+First meeting date
+
+Professional takeaways
+
+Common interests or fun facts
+
+Further questions to ask
+
+The date you plan to reach out again
